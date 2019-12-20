@@ -1,16 +1,24 @@
 {
-  "name": "graphql-server-example",
+  "name": "Apollo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tony8990/Apollo.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tony8990/Apollo/issues"
+  },
+  "homepage": "https://github.com/Tony8990/Apollo#readme",
   "dependencies": {
-    "apollo-server": "^2.9.13",
+    "apollo-server": "^2.9.14",
     "graphql": "^14.5.8"
   }
 }
